@@ -48,6 +48,7 @@ class Drink
       @quantity -= 1
       return true
     end
+    
   end
 
 end

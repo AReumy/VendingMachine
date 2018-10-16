@@ -12,10 +12,10 @@ class Drink
     # ドリンクの値段
     @price = price
 
-    # ドリンクの数
+    # ドリンクの数量
     @quantity = quantity
 
-    # ドリンクのID増加
+    # ドリンクのIDを増加
     @@id += 1
   end
 
